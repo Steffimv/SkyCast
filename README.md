@@ -25,12 +25,3 @@ The project focuses on simplicity, performance, and a seamless user experience u
 | API | OpenWeather API |
 | Styling | Custom CSS |
 | Deployment | GitHub Pages or Localhost |
-
----
-
-## Project Structure
-SkyCast/
-├── index.html # Main HTML file
-├── script.js # JavaScript logic for API and UI handling
-├── style.css # Custom styling for layout and responsiveness
-└── assets/ # Icons, images, and media files
